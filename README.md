@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 
 # TLDR:
 
-## Name: Sanjay Prabhu
-## Technical Interests: A.I., LLMs
-## Peer pressured into liking: Networking, LinkedIn
-## Actual likes: Music, Movies, Series, Anime
+* Name: Sanjay Prabhu
+* Technical Interests: A.I., LLMs, Machine Learning
+* Peer pressured into liking: Networking, LinkedIn
+* Actual Interests: Music, Movies, Series, Anime
+* Hobbies: (Current) Applying jobs
+
+# Still wish to read the remaining ?
+
