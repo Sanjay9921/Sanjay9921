@@ -9,10 +9,10 @@ https://github.com/inttter/md-badges
 
 - **Name:** Sanjay Prabhu K.
 - **Technical Interests:** A.I., LLMs, Machine Learning  
-- **Peer-pressured into liking:** Networking, LinkedIn (Open to work now haha)  
-- **Actual Interests:** Music, Movies, Series, Anime 
-- **Hobbies:** Currently applying for jobs (Still open to work)
-
+- **Corporate Interests:** Networking, LinkedIn (Open to work now haha)  
+- **Actual Interests:** Music, Movies, Series, Anime, Hiking, Travelling, Reading nostalgic books
+- **Hobbies:** (Currently) applying for jobs, otherwise enjoying the Sun and Tea in Summer and Books and coffee in winter
+- **Why Hire Me?:** I love balancing work and humor. I love to organize everything before I start to work as I deliver my 110 (10% is luck, 20% is skill, 15% power of will).
 ---
 
 # Still wish to read the remaining?
