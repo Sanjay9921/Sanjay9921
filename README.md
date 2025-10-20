@@ -78,7 +78,6 @@ skills to advance A.I. research and development.
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
 ![LangChain](https://img.shields.io/badge/-LangChain-blue?style=flat-square&logo=langchain&logoColor=white)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![NLTK](https://img.shields.io/badge/-NLTK-green?style=flat-square&logo=nltk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
