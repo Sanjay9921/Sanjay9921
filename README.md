@@ -31,7 +31,7 @@ Learner | Collaborative | Team Player | Determined
 
 ## 👋 About me
 
-> Research-driven professional with 4,5 years of experience in data engineering, data analytics, business intelligence
+> Research-driven professional with 5 years of experience in data engineering, data analytics, business intelligence
 and data science. Eager to continue building on my foundational experience in Artificial Intelligence and apply my
 skills to advance A.I. research and development.
 
